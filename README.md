@@ -1,1 +1,1 @@
-# Speed_Date_PoissonReg
+# Speed_Date_LogReg
